@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "416627704772",
+    "project_id": "backend-api-337407",
+    "storage_bucket": "backend-api-337407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416627704772:android:0dc662eb1752d93b555a91",
+        "android_client_info": {
+          "package_name": "com.frontend4sys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416627704772-jidcjd7jsi7nphlmn4703npopr4c9363.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frontend4sys",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "416627704772-o11ms41db10vq81ludf7fqhrtiitn9ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlWxZz0_UKq-F39EbKomB1pzjkoyttQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416627704772-65j0mcfqe2s6prs1296bbtd8nbamjlla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416627704772-2hp4cbu5ivlgsla1f4aeqkooktadeue4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.performance-app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416627704772:android:b348028fb3dfafb7555a91",
+        "android_client_info": {
+          "package_name": "com.performance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416627704772-o11ms41db10vq81ludf7fqhrtiitn9ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlWxZz0_UKq-F39EbKomB1pzjkoyttQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416627704772-65j0mcfqe2s6prs1296bbtd8nbamjlla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416627704772-2hp4cbu5ivlgsla1f4aeqkooktadeue4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.performance-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
